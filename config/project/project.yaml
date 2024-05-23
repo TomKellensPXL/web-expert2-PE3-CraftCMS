@@ -1,0 +1,25 @@
+dateModified: 1715612181
+email:
+  fromEmail: kellens.tom@hotmail.com
+  fromName: my-craft-project
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0b8f983f-e608-4620-9a68-cef3874e06b3: Startpagina # Startpagina
+    1de77200-750e-4009-a396-c2a04ff635a4: my-craft-project # my-craft-project
+    8ec0804e-2593-4f46-a296-949a6ae61e14: my-craft-project # my-craft-project
+    bd44170f-f393-49d7-990e-60c2cdb4d4de: startpagina # startpagina
+    d6a28be7-e265-4aa2-bfc0-5ea881151826: Intro # Intro
+system:
+  edition: solo
+  live: true
+  name: my-craft-project
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
