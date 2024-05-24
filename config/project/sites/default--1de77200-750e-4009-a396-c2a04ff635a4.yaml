@@ -1,8 +1,9 @@
 baseUrl: $PRIMARY_SITE_URL
+enabled: true
 handle: default
 hasUrls: true
 language: en-US
-name: my-craft-project
+name: web_expert2_PE3_CraftCMS
 primary: true
-siteGroup: 8ec0804e-2593-4f46-a296-949a6ae61e14 # my-craft-project
+siteGroup: 8ec0804e-2593-4f46-a296-949a6ae61e14 # web_expert2_PE3_CraftCMS
 sortOrder: 1

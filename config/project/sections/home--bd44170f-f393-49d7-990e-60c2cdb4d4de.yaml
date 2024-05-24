@@ -19,7 +19,7 @@ previewTargets:
         - '1'
 propagationMethod: all
 siteSettings:
-  1de77200-750e-4009-a396-c2a04ff635a4: # my-craft-project
+  1de77200-750e-4009-a396-c2a04ff635a4: # web_expert2_PE3_CraftCMS
     enabledByDefault: true
     hasUrls: true
     template: home.twig

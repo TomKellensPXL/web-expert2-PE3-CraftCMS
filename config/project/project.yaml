@@ -1,4 +1,4 @@
-dateModified: 1715612181
+dateModified: 1716562954
 email:
   fromEmail: kellens.tom@hotmail.com
   fromName: my-craft-project
@@ -6,14 +6,15 @@ email:
 meta:
   __names__:
     0b8f983f-e608-4620-9a68-cef3874e06b3: Startpagina # Startpagina
-    1de77200-750e-4009-a396-c2a04ff635a4: my-craft-project # my-craft-project
-    8ec0804e-2593-4f46-a296-949a6ae61e14: my-craft-project # my-craft-project
+    1de77200-750e-4009-a396-c2a04ff635a4: web_expert2_PE3_CraftCMS # web_expert2_PE3_CraftCMS
+    8ec0804e-2593-4f46-a296-949a6ae61e14: web_expert2_PE3_CraftCMS # web_expert2_PE3_CraftCMS
     bd44170f-f393-49d7-990e-60c2cdb4d4de: startpagina # startpagina
     d6a28be7-e265-4aa2-bfc0-5ea881151826: Intro # Intro
 system:
   edition: solo
   live: true
-  name: my-craft-project
+  name: web_expert2_PE3_CraftCMS
+  retryDuration: null
   schemaVersion: 5.0.0.20
   timeZone: America/Los_Angeles
 users:
